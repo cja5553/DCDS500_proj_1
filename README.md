@@ -1,5 +1,7 @@
 # DCDS500_proj_1
 
+Group members: Robert Kasumba, Charles Alba
+
 `main.ipynb` contains the main codes to the project. 
 
 
